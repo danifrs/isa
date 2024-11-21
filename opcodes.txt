@@ -1,0 +1,18 @@
+# opcodes
+
+add  0000
+addi 0001
+sub  0010
+sll  0011
+srla 0100
+mul  0101
+and  0110
+or   0111
+beq  1000
+neg  1001
+jal  1010
+jalr 1011
+ld   1100
+st   1101
+bge  1110
+quit 1111
